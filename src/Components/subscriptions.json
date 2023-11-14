@@ -1,0 +1,54 @@
+{
+    "main_title":"",
+    "main_desciption":"",
+    "packages":[
+      {
+        "title":"Free Trial",
+        "description":"Best option for personal use & for your next project.",
+        "price":0,
+        "plan":"Start Now",
+        "items":[
+          "✅ Unlimited Use for Trial",
+          "✅ Web Chat",
+          "❌ Telegram Chat",
+          "❌ Personality Selection",
+          "❌ Photos and Selfies",
+          "❌ Extended Configuration",  
+          "❌ super speed"
+          
+        ]
+      },
+     
+      {
+        "title":"Monthly",
+        "description":"Relevant for multiple users, extended & premium support.",
+        "price":5,
+        "plan":"Subscribe",
+        "items":[
+          "✅ Unlimited Use",
+          "✅ Web Chat",
+          "✅ Telegram Chat",
+          "✅ Personality Selection",
+          "✅ Photos and Selfies",
+          "✅ Extended Configuration",
+          "✅ super speed"
+        ]
+      },
+  
+      {
+        "title":"Yearly",
+        "description":"Best for large scale uses and extended redistribution rights.",
+        "price":50,
+        "plan":"Subscribe",
+        "items":[
+          "✅ Unlimited Use",
+          "✅ Web Chat",
+          "✅ Telegram Chat",
+          "✅ Personality Selection",
+          "✅ Photos and Selfies",
+          "✅ Extended Configuration",
+          "✅ super speed"
+        ]
+      }
+    ]
+  }
